@@ -1,0 +1,2 @@
+# SQL Portfolio - Maurice Yates
+Welcome to my SQL portfolio! This repository contains projects demonstrating my skills in writing SQL queries, including joins, subqueries, and window functions, developed through Coursera (SQL for Data Science) and DataCamp (Associate Data Analyst in SQL). With 27+ years in banking, I’m transitioning to a Junior SQL Developer role. Connect with me on [LinkedIn](https://www.linkedin.com/in/maurice-yates-30669556) or view my [DataCamp profile](https://www.datacamp.com/portfolio/digitalplanetdesigns).
